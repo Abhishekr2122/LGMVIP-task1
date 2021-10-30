@@ -1,0 +1,825 @@
+body{
+    margin:0px;
+    padding: 0px;
+    
+}
+
+#A{
+    display: flex;
+    flex-direction: row;
+}
+
+#B{
+ /* border: 2px solid red; */
+ height: 755px;
+ width: 510px;
+ background-image: url(../images/nike-5979371.jpg);
+ background-repeat: no-repeat;
+ background-size: 520px 753px;
+
+}
+
+#C{
+/* border: 2px solid black; */
+height: 755px;
+width: 520px;
+background-image: url(../images/puma-3706916.jpg);
+background-repeat: no-repeat;
+background-size: 700px 753px;
+}
+
+#D{
+/* border: 2px solid yellow ; */
+height: 755px;
+width: 510px;
+background-image: url(../images/fashion-5419004.jpg);
+background-repeat: no-repeat;
+background-size: 520px 753px;
+}
+
+#E{
+    /* border: 2px solid black; */
+}
+
+#F{
+    font-size: 60px;
+    text-align: center;
+    background-color: tomato;
+    margin-left: -1px;
+}
+
+#F:hover{
+    color: white;
+    cursor: pointer;
+}
+
+#G{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+
+
+#H img{
+    height: 600px;
+    width: 788px;
+   
+}
+
+#I{
+    display: flex;
+   
+    justify-content: center;
+    /* border: 2px solid brown; */
+    height: 70px;
+    width: 710px;
+    background-color: lightsteelblue;
+    
+}
+
+.e{
+    font-size: 50px;
+    margin-top: 2px;
+    cursor: pointer;
+   
+}
+
+.e:hover{color: white;
+
+}
+
+#J{
+    /* border: 2px solid green; */
+    height: 596px;
+    width: 608px;
+    margin-left: 12px;
+   
+}
+
+#K{
+    /* border: 2px solid blue; */
+    height: 200px;
+    margin-top: 24px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.f img{
+    height: 200px;
+    width: 250px;
+}
+
+#L{
+    /* border: 2px solid orange; */
+    margin-top: 18px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.g img{
+    height: 200px;
+    width: 250px;
+
+}
+#M img{
+    height: 200px;
+    width: 205px; 
+}
+
+#N{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid black; */
+    height: 60px;
+    margin-top: 29px;
+    width: 710px;
+    background-color: lightsteelblue;
+}
+
+#N button{
+    background: transparent;
+    width: 150px;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#N button:hover{
+    color: white;
+}
+
+#P img{
+    height: 200px;
+    width: 208px; 
+}
+
+#Q{
+    /* border: 2px solid red; */
+    width: 785px;
+    margin-top: 30px;
+    height: 596px;
+}
+
+#R{
+    /* border: 2px solid blue; */
+    height: 70px;
+    width: 788px;
+    display: flex;
+    justify-content: center;
+    background-color: lightsteelblue;
+
+    
+}
+
+.f{
+    font-size: 50px;
+    margin: 2px;
+}
+
+#S{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+.h img{
+    height: 200px;
+    width: 261px;  
+}
+
+#T{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.i img{
+    height: 200px;
+    width: 261px;  
+}
+
+#U img{
+    height: 200px;
+    width: 263.5px;  
+}
+
+#V{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: lightsteelblue;
+    height: 59px;
+
+}
+
+#V button{
+    background: transparent;
+    width: 150px;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#V button:hover{
+   cursor: pointer;
+   color: white;
+}
+
+.f:hover{
+    cursor: pointer;
+    color: white;
+}
+
+#W{
+    display: flex;
+    flex-direction: row;
+}
+
+#X img{
+    margin-top: 30px;
+    height: 593px;
+    width: 710px;
+    margin-left: 16px;
+}
+
+#Y img{
+    height: 600px;
+    width: 784px;
+    margin-top: 30px;
+}
+
+#Z{
+    display: flex;
+    flex-direction: row;
+}
+
+#up{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 16px;
+    justify-content: center;
+    /* border: 2px solid brown; */
+    height: 70px;
+    width: 710px;
+    background-color: lightsteelblue;
+    
+}
+
+.j{
+    font-size: 50px;
+    margin-top: 2px;
+    cursor: pointer;
+}
+
+.j:hover{
+    color: white;
+}
+
+.k img{
+    height: 200px;
+    width: 235px;
+}
+
+#down{
+    display: flex;
+    flex-direction: row;
+    margin-left: 16px;
+    margin-top: 23px;
+}
+
+#bottom img{
+    height: 200px;
+    width: 240px;
+}
+
+#left{
+    display: flex;
+    flex-direction: row;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+
+.l img{
+    height: 200px;
+    width: 234px;
+}
+
+#right img{
+    height: 200px;
+    width: 240px; 
+}
+
+#air{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid black; */
+    margin-left: 16px;
+    height: 60px;
+    margin-top: 29px;
+    width: 708px;
+    background-color: lightsteelblue;
+}
+
+#air button{
+    background: transparent;
+    width: 150px;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#air button:hover{
+    cursor: pointer;
+    color: white;
+}
+
+#pen{
+    font-size: 60px;
+    text-align: center;
+    background-color: tomato;
+    margin-left: -1px;
+}
+
+#pen:hover{
+    color: white;
+    cursor: pointer;
+}
+
+#paper{
+    /* border: 2px solid red; */
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.m{ 
+    /* border: 2px solid green; */
+    margin-top: 3px;
+    height: 290px;
+    width: 300px;
+    margin-left: 66px;
+    background-color: rgba(255, 182, 193, 0.527);
+}
+    
+
+
+.n{
+    /* border: 2px solid yellow; */
+    height: 200px;
+}
+
+.n img{
+    height: 216px;
+    width: 300px;
+}
+
+#cap img{
+    height: 216px;
+    width: 299px;
+}
+
+#book{
+    height: auto;
+    /* border: 2px solid red; */
+    background-color: lavender;
+    margin-top: 18px;
+    display: flex;
+    flex-direction: row;
+}
+
+.o{
+    color: black;
+    margin: 10px;
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 230px;
+    cursor: pointer;
+}
+.p{
+    padding: 12px;
+    font-size: larger;
+    color: black;
+}
+
+#bag{
+    margin-top: 6px;
+    /* border: 2px solid red; */
+    height: 232px;
+    position: absolute;
+    right: 90px;
+}
+
+.car{
+    margin-top: 8px;
+    padding: 10px;
+    margin-left: -7px;
+}
+
+#bus img{
+    margin-top: 8px;
+    height: 180px;
+    width: 230px;
+}
+
+#bottle{
+    
+    position: absolute;
+    /* border: 2px solid black; */
+    left: 19%;
+    top: 31%;
+    font-size: 100px;
+    
+}
+
+#twelve{
+    display: flex;
+    flex-direction: row;
+}
+
+.text{
+   display: none;
+}
+
+@media screen and (max-width:420px) {
+   
+    
+     #A{
+         /* border: 2px solid red; */
+         width: 408px;
+         height: 500px;
+         background-image: url(../images/the-dk-photography-7Uwh8QXYdXQ-unsplash.jpg);
+         background-repeat: no-repeat;
+         background-size: 406px 500px;
+     }
+
+     #B{
+         display: none;
+     }
+
+     #C{
+         display: none;
+     }
+
+     #D{
+         display:none
+     }
+
+     #bottle{
+         position: absolute;
+         left: 1%;
+         font-size: 35px;
+         height: auto;
+         width: 380px;
+         /* border: 2px solid white; */
+         text-align: center;
+     }
+
+     #G{
+         /* border: 4px solid blue; */
+         display: flex;
+         flex-direction: column;
+         width: 390px;
+         height: auto;
+     }
+
+     #G img{
+         width: 383px;
+     }
+
+     #H img{
+         margin-left: 1px;
+         width: 407px; ;
+     }
+
+     #J{
+         /* border: 4px solid yellow; */
+         margin-left: -2px;
+         /* dposition: absolute; */
+         width: 385px;
+         height: auto;
+     }
+
+     #I{
+         width: 405px;
+         margin-left: 2px;
+     }
+
+     #K{
+         /* border: 4px solid red; */
+         height: auto;
+         width: 378px;
+         display: flex;
+         flex-direction: column;
+         /* display: flex; */
+         /* flex-direction: column; */
+        
+     }
+    .f{ 
+        /* border: 2px solid pink; */
+        /* width: 370px; */
+        width: auto;
+        height: auto;
+    }
+
+    
+
+    #M img{
+        display: none;
+        width:  400px
+    }
+     
+
+    #L{
+        /* border: 4px solid red; */
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+     #W{
+         display: flex;
+         flex-direction: column-reverse;
+        
+     }
+
+     #Q{
+         display: flex;
+         flex-direction: column;
+         height: auto;
+     }
+     
+     
+        
+     #mask img{
+         display: none;
+         width: 400px;
+     }
+
+     #chair img{
+         display: none;
+        width: 405px;
+     }
+
+     .g{
+         /* border: 2px solid cyan; */
+     }
+
+     #one img{
+         width: 406px;
+         margin-left: 2px;
+     }
+
+     #two img{
+        width: 406px;
+        margin-left: 2px;
+     }
+
+     #P img{
+        width: 406px;
+        margin-left: 2px;
+     }
+
+     #N{
+         margin-left: 2px;
+         width: 406px;
+     }
+
+     #X img{
+         margin-left: 1px;
+         width: 404px;
+     }
+
+     #R{
+         width: 405px;
+     }
+     
+     #S{
+         display: flex;
+         flex-direction: column;
+         width: 403px;
+         height: auto;
+         /* border: 2px solid indianred; */
+     }
+
+     .h img{
+         width: 400px;
+     }
+
+     #T{
+         /* border: 2px solid navajowhite; */
+         display: flex;
+         flex-direction: column;
+         width: 390px;
+         display: none;
+     }
+
+     #three img{
+         display: none;
+         width: 388px;
+     }
+
+     #four img{
+         display: none;
+         width: 388px;
+     }
+
+     #U img{
+         display: none;
+         width: 388px;
+     }
+
+     #V{
+         /* border: 2px solid dimgrey; */
+         height:  60px;
+         width: 406px;
+     }
+
+
+
+    #Y img{
+       width: 403px;
+    }
+
+    #Z{
+         display: flex;
+         flex-direction: column;
+         /* border: 2px solid hotpink; */
+         height: auto;
+         margin-top: 50px;
+     }
+
+     #top{
+         /* border: 2px solid antiquewhite; */
+         height: auto;
+     }
+
+     #up{
+         margin-left: 1px;
+         width: 403px;
+     }
+
+     #down{
+         /* border: 2px solid olivedrab; */
+         margin-left: 0px;
+         height: auto;
+         display: flex;
+         flex-direction: column;
+     }
+
+     #five img{
+         width: 404px;
+     }
+
+     #six img{
+         width: 404px;
+     }
+
+     #bottom img{
+         width: 404px;
+     }
+
+     #left{
+         /* border: 2px solid cornflowerblue; */
+         margin-left: 0px;
+         height: auto;
+         display: flex;
+         flex-direction: column;
+         display: none;
+     }
+
+     #seven img{
+      display: none;
+      width: 398px;
+     }
+
+     #eight img{
+        display: none;
+        width: 398px;
+     } 
+
+     #right img{
+         display: none;
+         width: 398px;
+     }
+
+     #air{
+         margin-left: 0px;
+         width: 405px;
+     }
+
+     #pen{
+         font-size: 20px;
+         height: 60px;
+         width: 404px;
+         margin-left: 0px;
+         text-align: center;
+     }
+
+     #paper{
+         /* border: 2px solid chocolate; */
+         display: flex;
+         flex-direction: column;
+         height: auto;
+     }
+
+     .m{
+         width: 50px;
+         margin-left: 0px;
+     }
+     
+    #cap{
+        /* border: 2px solid cornflowerblue; */
+        width: 403px;
+    }
+
+     .n{
+         /* border: 2px solid coral; */
+         height: auto;
+         width: 400px;
+     }
+
+     #nine img{
+         width: 400px;
+         height: 200px;
+     }
+
+     #cap img{
+        width: 400px;
+        height: 200px;
+     }
+
+     #ten img{
+        width: 400px;
+        height: 200px;
+     }
+
+     #eleven img{
+        width: 400px;
+        height: 200px;
+     }
+
+     .q{
+        text-align: center; 
+         height:  40px;
+         font-size: small;
+         width: 398px;
+         /* border: 2px solid aquamarine; */
+         margin-top: 2px;
+     }
+
+     .m{
+         /* border: 2px solid hotpink; */
+         width: 404px;
+         height: 260px;
+         margin-top: 17px;
+     }
+
+     #book{
+         /* border: 2px solid navy; */
+         height: auto;
+         display: flex;
+         flex-direction: column;
+     }
+
+     #bag{
+        display: none;
+
+     }
+
+     #twelve{
+         /* border: 2px solid mediumseagreen; */
+         display: flex;
+         flex-direction: column;
+         height: auto;
+     }
+
+     #thirteen{
+         /* border: 2px solid navajowhite; */
+         height: auto;
+         width: auto;
+     }
+
+     .fifteen{
+         width: 100%;
+         margin: 0px;
+         padding: 0px;
+     }
+
+     
+}
+
+
+
+
+
+
+
+
+
+
+
